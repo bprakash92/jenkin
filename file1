@@ -1,0 +1,12 @@
+class hook
+ 
+  { 
+   public static void main(string args[])
+    {
+        System.out.println("hello this is my first code")
+       }
+       }
+        
+        
+        
+  
